@@ -53,9 +53,11 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 
 ## Examples
 - Example of the model in action:
-  ![Example Video](output/SubmissionVideo.mp4)
-  https://github.com/Manan-529/CemID-Cement-Bag-Number-Detection-with-Deep-Learning/assets/100696977/f86348c5-fca4-4ac1-99b3-e2930bc7efd7
+ # Demo Run video link
+https://drive.google.com/drive/u/1/folders/1aRZ1fA54tLN0C9E-R8XQI4ZrEH6_Bwjy
 
+
+https://user-images.githubusercontent.com/52171362/157252684-bd0c3e4b-063f-4b20-9bcb-58eccc6143da.mp4
 
 
 ## Skills Demonstrated
