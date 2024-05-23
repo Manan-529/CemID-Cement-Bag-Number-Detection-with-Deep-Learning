@@ -1,7 +1,9 @@
 # CemID-Cement-Bag-Number-Detection-with-Deep-Learning
 
 ## Overview
-This project aims to detect week numbers on cement bags moving on a conveyor belt. The system pauses the belt if a bag without a week number is detected. The project demonstrates skills in computer vision, machine learning, and deep learning using TensorFlow and OpenCV.
+CemID: Deep Learning-Powered Real-Time Cement Bag Number Detection is a sophisticated system designed to identify week numbers on cement bags in real time as they move along a conveyor belt. Leveraging advanced deep learning techniques, the system ensures accurate detection of week numbers, enhancing efficiency and quality control in cement manufacturing processes. By integrating TensorFlow for model training and OpenCV for image processing, CemID achieves high accuracy even in challenging environments with varying lighting conditions and bag orientations. Its pause mechanism halts the conveyor belt upon detecting a bag without a week number, preventing defective products from progressing further in the manufacturing process.
+
+
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
