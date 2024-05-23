@@ -10,7 +10,6 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 4. [Running Predictions](#running-predictions)
 5. [Examples](#examples)
 6. [Skills Demonstrated](#skills-demonstrated)
-7. [License](#license)
 
 ## Project Structure
 - **data/**: Contains annotated images, original images, and video files.
@@ -58,4 +57,4 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 - **Deep Learning**: Utilized TensorFlow for building and training the SegNet model.
 - **Data Preprocessing**: Included steps for resizing images, data normalization, and creating datasets.
 - **Model Training**: Demonstrated ability to train a deep learning model with validation and saving checkpoints.
-- **Python Programming**: Strong coding skills shown in the project scripts and organization.
+- **Python Programming**: Strong coding skills are shown in the project scripts and organization.
