@@ -54,7 +54,6 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 ## Examples
 - Example of the model in action:
  # Demo Run video link
-https://drive.google.com/drive/u/1/folders/1aRZ1fA54tLN0C9E-R8XQI4ZrEH6_Bwjy
 
 
 https://user-images.githubusercontent.com/52171362/157252684-bd0c3e4b-063f-4b20-9bcb-58eccc6143da.mp4
