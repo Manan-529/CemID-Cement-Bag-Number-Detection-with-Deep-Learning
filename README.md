@@ -8,7 +8,7 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 2. [Setup and Installation](#setup-and-installation)
 3. [Training the Model](#training-the-model)
 4. [Running Predictions](#running-predictions)
-5. [Examples](#examples)
+5. [Output](#output)
 6. [Skills Demonstrated](#skills-demonstrated)
 
 ## Project Structure
@@ -51,7 +51,7 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 
 
 
-## Examples
+## Output
 - Example of the model in action:
 
 
