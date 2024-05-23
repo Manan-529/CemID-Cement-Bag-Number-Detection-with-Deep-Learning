@@ -15,12 +15,10 @@ CemID: Deep Learning-Powered Real-Time Cement Bag Number Detection is a sophisti
 
 ## Project Structure
 - **data/**: Contains annotated images, original images, and video files.
-- **model/**: Contains the trained SegNet model.
 - **scripts/**: Contains training and prediction scripts.
-- **examples/**: Contains example video showing the detection in action.
+- **output/**: Contains example video showing the detection in action.
 - **requirements.txt**: Lists the Python dependencies.
 - **README.md**: Project documentation.
-- **LICENSE**: License for the project.
 
 ## Setup and Installation
 1. Clone the repository:
