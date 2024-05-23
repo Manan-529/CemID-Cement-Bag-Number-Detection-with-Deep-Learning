@@ -50,7 +50,7 @@ This project aims to detect week numbers on cement bags moving on a conveyor bel
 
 ## Examples
 - Example of the model in action:
-  ![Example Video](examples/example_video.mp4) (Add an actual video or a link to one if possible)
+  ![Example Video](output/SubmissionVideo.mp4) (Add an actual video or a link to one if possible)
 
 ## Skills Demonstrated
 - **Computer Vision**: Implemented using OpenCV for video processing and image manipulation.
